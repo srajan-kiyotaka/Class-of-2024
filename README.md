@@ -8,7 +8,8 @@
 
 ## A
 
-[Adarsh Anand](https://github.com/AdarshAnand67)
+| [<img src="https://github.com/AdarshAnand67.png?size=115" width=115><br><sub>@AdarshAnand67</sub>](https://github.com/AdarshAnand67) |
+| :---: |
 
 ## B
 
