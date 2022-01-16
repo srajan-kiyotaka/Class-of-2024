@@ -5,6 +5,7 @@
 </p>
 
 ## **List of all GitHub handles of the class of 2024**
+
 <br>
 
 <!-- Copy the below 2 lines just changing your username at 3 places -->
@@ -49,6 +50,9 @@
 ## R
 
 ## S
+
+| [<img src="https://avatars.githubusercontent.com/u/91196806?v=4" width=115><br><sub>@srajan-kiyotaka</sub>](https://github.com/srajan-kiyotaka) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: |
 
 ## T
 
