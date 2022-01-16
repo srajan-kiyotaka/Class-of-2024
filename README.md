@@ -50,6 +50,9 @@
 
 ## S
 
+| [<img src="https://avatars.githubusercontent.com/u/91196806?v=4" width=115><br><sub>@srajan-kiyotaka</sub>](https://github.com/srajan-kiyotaka) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------: |
+
 ## T
 
 ## U
